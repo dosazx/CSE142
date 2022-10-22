@@ -1,9 +1,3 @@
-// Fardouse Marghani
-// 5/1/2022
-// CSE142
-// TA: Andrew Awada
-// Take-home Assessment #5
-//
 // A guessing game that asks the user to guess a random number
 // between 1 and constant MAX_VALUE. The user is given hints about
 // whether the number is higher or lower based on the guess. 
