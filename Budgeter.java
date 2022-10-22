@@ -1,9 +1,3 @@
-// Fardouse Marghani
-// 4/25/2022
-// CSE142
-// TA: Andrew Awada
-// Take-home Assessment #4
-//
 // Asks the user for input regarding income and expenses and 
 // calculates their total monthly income, expenses, and net income.
 
